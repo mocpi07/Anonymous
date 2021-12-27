@@ -6,7 +6,7 @@
 <!-- <h1>ANONYMOUS CHAT BOT</h1> -->
 </p>
 <p align="center">
-<a href="https://github.com/FrenzYSG"><img title="Author" src="https://img.shields.io/badge/Author-FrenzYSG-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Mocpi07"><img title="Author" src="https://img.shields.io/badge/Author-MOCPI-red.svg?style=for-the-badge&logo=github"></a>
 <a
 <a href="https://github.com/MRHRTZ"><img title="Developer" src="https://img.shields.io/badge/Developer-MRHRTZ-red.svg?style=for-the-badge&logo=github"></a>
 </p>
